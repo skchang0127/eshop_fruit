@@ -1,0 +1,1 @@
+{"name":"Eshop fruit","tagline":"","body":"\r\nnpm install -g cnpm --registry=https://registry.npm.taobao.org\r\ncnpm install\r\nDEBUG=blog node ./bin/www\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
